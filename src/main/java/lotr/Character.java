@@ -2,7 +2,6 @@ package lotr;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.AllArgsConstructor;
-import lombok.ToString;
 
 @Getter @Setter @AllArgsConstructor
 public abstract class Character {
